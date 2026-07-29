@@ -1,5 +1,5 @@
 {
-  "name": "prompthub-backend",
+  "name": "prompthub_ai-backend",
   "version": "1.0.0",
   "description": "PromptHub Express.js Backend API Server",
   "type": "module",
